@@ -1,8 +1,8 @@
-# SummerSchool 23: Time Series Analysis & Generative AI
+# SummerSchool 24: Time Series Analysis & Generative AI
 
 ## Introduction
 
-Welcome to the SummerSchool 23 course on Time Series Analysis and Generative AI at Hochschule Karlsruhe! This course aims to provide an in-depth understanding of two of the most transformative areas in artificial intelligence and data science: Time Series Analysis and Generative AI.
+Welcome to the SummerSchool 24 course on Time Series Analysis and Generative AI at Hochschule Karlsruhe! This course aims to provide an in-depth understanding of two of the most transformative areas in artificial intelligence and data science: Time Series Analysis and Generative AI.
 
 ### Why Time Series Analysis?
 
@@ -37,7 +37,7 @@ To get started with the course materials, please clone the repository and follow
 
 ### Automatic setup (only x86)
 ```bash
-git clone https://github.com/LackesLab/summerschool_23.git
+git clone https://github.com/LackesLab/summerschool24.git
 ```
 
 ```bash
@@ -78,7 +78,7 @@ conda install -c conda-forge statsmodels
 
 ### Manual / Pip install
 ```bash
-git clone https://github.com/LackesLab/summerschool_23.git
+git clone https://github.com/LackesLab/summerschool24.git
 ```
 1. Create a python environment with version `python=3.11`
 2. Install the following packages:
